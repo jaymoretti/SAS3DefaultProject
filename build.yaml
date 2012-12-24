@@ -1,0 +1,23 @@
+---
+sdk-path:
+    - "/work/flash/libs/sdks/4.8.0"
+    
+default:
+    - debug: true
+      open: bin/MainLoader.swf
+      extras: -use-network=false -static-link-runtime-shared-libraries
+    
+library-path:
+    - swc/
+
+source-path:
+    - libs/
+    - src/
+    
+applications:
+    - class: src/MainLoader.as
+      output: bin/MainLoader.swf
+      
+    - class: src/Main.as
+      output: bin/Main.swf
+      

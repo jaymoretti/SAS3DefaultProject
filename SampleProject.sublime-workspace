@@ -1,0 +1,887 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scou",
+				"scoutPath"
+			],
+			[
+				"mxm",
+				"mxmlc_path"
+			],
+			[
+				"fcs",
+				"fcsh_path"
+			],
+			[
+				"fs",
+				"fcsh_path"
+			],
+			[
+				"edge",
+				"edgeScroller"
+			],
+			[
+				"star",
+				"startintro"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"in",
+				"incompatible"
+			],
+			[
+				"ori",
+				"orientation"
+			],
+			[
+				"or",
+				"orientation"
+			],
+			[
+				"ple",
+				"pledge_Item"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"scrollS",
+				"scrollStart"
+			],
+			[
+				"scro",
+				"scrollSpeed"
+			],
+			[
+				"time",
+				"timelinePercent"
+			],
+			[
+				"play",
+				"playHead"
+			],
+			[
+				"_file",
+				"_fileName"
+			],
+			[
+				"_fie",
+				"_fileName"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"trac",
+				"tracked25"
+			],
+			[
+				"is",
+				"isIOS"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"Browser",
+				"BrowserDetect"
+			],
+			[
+				"B",
+				"BrowserDetect"
+			],
+			[
+				"chec",
+				"checkbox"
+			],
+			[
+				"che",
+				"checkboxes"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"Conta",
+				"ContactUs"
+			],
+			[
+				"Pr",
+				"Privacy"
+			],
+			[
+				"Ter",
+				"TermsOfUse"
+			],
+			[
+				"Fo",
+				"FollowAndShare"
+			],
+			[
+				"Star",
+				"StartYourProject"
+			],
+			[
+				"windo",
+				"windowHeight"
+			],
+			[
+				"body",
+				"bodyHeight"
+			],
+			[
+				"isi",
+				"isiDiff"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"get",
+				"getPosition"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"pl",
+				"pledge_message"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"Projec",
+				"ProjectLuna"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "build.yaml",
+			"settings":
+			{
+				"buffer_size": 399,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Main.as",
+			"settings":
+			{
+				"buffer_size": 635,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/MainLoader.as",
+			"settings":
+			{
+				"buffer_size": 1662,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 271.0,
+		"selected_items":
+		[
+			[
+				"Mark",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jay/Library/Application Support/Sublime Text 2/Packages/ActionScript3/bin/Rakefile",
+		"/Jay/work/HAUS/__current/clorox/build.yaml",
+		"/Jay/work/HAUS/__current/clorox/src/com/madeinhaus/clorox/controller/commands/StartLevelCommand.as",
+		"/Jay/work/HAUS/__current/clorox/src/com/madeinhaus/clorox/CloroxLoader.as",
+		"/Users/jay/Library/Application Support/Google/Chrome/Default/User StyleSheets/Custom.css",
+		"/private/tmp/path",
+		"/Jay/work/HAUS/__current/clorox/src/com/madeinhaus/clorox/Clorox.as",
+		"/Jay/work/Projects/_Personal/ChupaFolha/ChupaFolha/chupafolha.js",
+		"/Jay/work/Projects/_Personal/ChupaFolha/ChupaFolha/manifest.json",
+		"/Jay/work/HAUS/__current/Luna/www/pages/start.html",
+		"/Jay/work/HAUS/__current/Luna/www/css/pages/start.css",
+		"/Jay/work/HAUS/__current/Luna/www/js/views/start.js",
+		"/Jay/work/HAUS/__current/Luna/www/css/pages/about.css",
+		"/Jay/work/HAUS/__current/Luna/www/pages/about.html",
+		"/Jay/work/HAUS/__current/Luna/www/js/views/home.js",
+		"/Jay/work/HAUS/__current/Luna/www/css/pages/pledges.css",
+		"/Jay/work/HAUS/__current/Luna/www/js/libs/skrollr.min.js",
+		"/Jay/work/HAUS/__current/Luna/www/js/display/ViewManager.js",
+		"/Jay/work/HAUS/__current/Luna/www/js/utils/Utils.js",
+		"/Jay/work/HAUS/__current/Luna/www/js/views/facts.js",
+		"/Jay/work/HAUS/__current/Luna/www/index.html",
+		"/Jay/work/HAUS/__current/Luna/www/js/views/landing.js",
+		"/Jay/work/HAUS/__current/Luna/www/js/core/application.js",
+		"/Jay/work/HAUS/__current/Luna/www/css/common/nav.css",
+		"/Jay/work/HAUS/__current/Luna/www/pages/facts/sleep.html",
+		"/private/var/folders/7y/mx4z3v696hb8nvg_635cshsr0000gn/T/cebe072e-a4b9-4120-bb1d-6ba3b5fe2675/home/haus_luna/luna2.devinhaus.com/index.html",
+		"/Jay/work/HAUS/__current/Luna/www/css/pages/facts.css",
+		"/Jay/work/HAUS/__current/Luna/www/pages/facts.html",
+		"/Jay/work/HAUS/__current/Luna/www/js/edge/edgeScroller.js",
+		"/Jay/work/HAUS/__current/Luna/www/js/edge/luna_home_edge.js",
+		"/Jay/work/Projects/_Personal/paixaonacional/index.php",
+		"/Jay/work/HAUS/__current/Luna/www-built/js/main.js",
+		"/Jay/work/HAUS/__current/Luna/www/js/utils/mediamind.js",
+		"/Jay/work/HAUS/__current/Luna/www/js/edge/luna_home_edgeActions.js",
+		"/Jay/work/HAUS/__current/Luna/www/js/edge/luna_aos_edgeActions.js",
+		"/Jay/work/HAUS/__old/KetelOne/frontend/js/ui.js",
+		"/Jay/work/HAUS/__old/KetelOne/frontend/index.php",
+		"/Jay/work/HAUS/__old/KetelOne/frontend/.htaccess",
+		"/Users/jay/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jay/Library/Application Support/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
+		"/Jay/work/HAUS/__current/Luna/www/css/pages/home.css",
+		"/Jay/work/HAUS/__current/Luna/www/css/ios.css",
+		"/Jay/work/HAUS/__current/Luna/www/css/common/legal.css",
+		"/Jay/work/HAUS/__current/Luna/www/js/model/settings.js",
+		"/Jay/work/HAUS/__current/Luna/www/pledges/index.html",
+		"/Jay/work/HAUS/__current/Luna/www/js/views/pledges.js",
+		"/Jay/work/HAUS/__current/Luna/www/js/views/follow.js",
+		"/Jay/work/HAUS/__current/Luna/www/css/style.css",
+		"/Jay/work/HAUS/__current/Luna/www/css/print.css",
+		"/Jay/work/HAUS/__current/Luna/www/404.html",
+		"/Jay/work/HAUS/__current/Luna/www/dd.html",
+		"/Jay/work/HAUS/__current/Luna/www/pages/start/pledges.html",
+		"/Jay/work/HAUS/__current/Luna/www/js/config.js",
+		"/Users/jay/Desktop/TODAY'S LIST (by priority).diff",
+		"/Jay/work/HAUS/__current/Luna/www/pages/facts/anatomy.html",
+		"/Jay/work/HAUS/__current/Luna/www/pages/facts/lunesta.html",
+		"/Jay/work/HAUS/__current/Luna/www/pages/start/pledge.html",
+		"/Jay/work/HAUS/__current/Luna/www/pages/start/tracker.html",
+		"/Jay/work/HAUS/__current/Luna/www/js/edge/luna_aos_edge.js",
+		"/Jay/work/HAUS/__current/Luna/www/pledges/share.html",
+		"/Jay/work/HAUS/__current/Luna/www/share.html",
+		"/Jay/work/HAUS/__current/Luna/www/aos.html",
+		"/Jay/work/HAUS/__current/Luna/www/css/common/common.css",
+		"/Jay/work/HAUS/__current/Luna/www/pages/follow.html",
+		"/Jay/work/HAUS/__current/Luna/www/js/utils/googleAnalytics.js",
+		"/Jay/work/HAUS/__current/Luna/www/js/nav/Nav.js",
+		"/Jay/work/HAUS/__current/Luna/www/pages/isi.html",
+		"/Jay/work/HAUS/__current/Luna/www/js/edge/requireEdge.js",
+		"/Jay/work/HAUS/__current/Luna/www/js/main.js",
+		"/Jay/work/HAUS/__current/Luna/www/js/edge/luna_aosAssets.js",
+		"/Jay/work/HAUS/__current/Luna/www/css/common/footer.css",
+		"/Jay/work/Stuff/libs/hype-hype-605a391/src/hype/framework/core/ObjectPool.as",
+		"/Users/jay/Desktop/Voodoo/js/core/Application.js",
+		"/Users/jay/Desktop/Voodoo/js/libs/loading/llcoolj.js",
+		"/Users/jay/Desktop/Voodoo/css/panels/panels.css",
+		"/Users/jay/Desktop/Voodoo/css/styles.css",
+		"/Users/jay/Desktop/Voodoo/css/timeline/timeline.css",
+		"/Users/jay/Desktop/Voodoo/css/common/common.css",
+		"/Users/jay/Desktop/Voodoo/css/canvas/canvas.css",
+		"/Users/jay/Desktop/Voodoo/js/utils/Utils.js",
+		"/Users/jay/Desktop/Voodoo/somejs.js",
+		"/Jay/work/HAUS/__current/Luna/www/_styleguide/index.html",
+		"/Jay/work/HAUS/__current/Luna/www/_styleguide/css/main.css",
+		"/Jay/work/HAUS/__current/Luna/www/_styleguide/css/styleguide.css",
+		"/Jay/work/HAUS/__current/Luna/www/css/pages/follow.css",
+		"/Jay/work/HAUS/__current/Luna/www/pages/pledges.html",
+		"/Jay/work/HAUS/__current/Luna/www/pie/PIE.js",
+		"/Jay/work/HAUS/__current/Luna/www/pledges/caffeine/index.html",
+		"/Jay/work/HAUS/__current/Luna/www/pages/contact-us.html",
+		"/Jay/work/HAUS/__current/Luna/www/pages/medical-disclaimer.html",
+		"/Jay/work/HAUS/__current/Luna/www/pages/terms-of-use.html",
+		"/Jay/work/HAUS/__current/Luna/www/pages/privacy.html",
+		"/Users/jay/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Jay/work/HAUS/__current/Luna/Luna.sublime-workspace",
+		"/Jay/work/HAUS/__current/Luna/Luna.sublime-project"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"applicatio",
+			"line",
+			"compiling",
+			"open",
+			"FCSHDServer",
+			"config",
+			"fcsh",
+			"fsch",
+			"scroll",
+			"startintro",
+			"isi",
+			"webkit-background",
+			"email",
+			"preloader",
+			"ViewManager",
+			"LUNA",
+			"scrollSpeed",
+			"images/",
+			")\n",
+			"scroller.bind",
+			"mm.",
+			"mm",
+			"scroller.bind",
+			"scroller.bind( null",
+			"scroller.bind(null",
+			"scroller.bind(null, \"facts/anatomy\");",
+			"RELEASE",
+			"zzz",
+			"init",
+			"insomnia",
+			"stage",
+			"&reg;",
+			"®",
+			"&reg;",
+			"log",
+			"log(",
+			"log",
+			"Doctor",
+			"®",
+			"or print",
+			"text_exercise",
+			"patterns",
+			"	",
+			"Project",
+			"PSD",
+			"lunesta",
+			"endbox",
+			"img/",
+			"images/",
+			"*",
+			"_load",
+			");\n",
+			"%;",
+			"Sleep.",
+			",\n",
+			"patterns",
+			"stage",
+			"sleep"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"factsintro",
+			"img/edge/",
+			"&reg;",
+			"img/aos/",
+			"img/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "build.yaml",
+					"settings":
+					{
+						"buffer_size": 399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								239,
+								239
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/Main.as",
+					"settings":
+					{
+						"buffer_size": 635,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7,
+								7
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Actionscript3/ActionScript 3.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/MainLoader.as",
+					"settings":
+					{
+						"buffer_size": 1662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1432,
+								1432
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Actionscript3/ActionScript 3.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 701.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 214.0
+	},
+	"output.sftp":
+	{
+		"height": 128.0
+	},
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/jay/Desktop/Voodoo/voodoo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true
+}
